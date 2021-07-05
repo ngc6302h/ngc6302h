@@ -1,7 +1,7 @@
 ### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngc6302h&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ngc6302&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ngc6302)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
